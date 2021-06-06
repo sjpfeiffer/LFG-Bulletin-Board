@@ -81,7 +81,7 @@ GBB.locales = {
 		["BtnUnselectAll"]="Unselect all",
 		["BtnSelectAll"]="Select all",
 		
-		["BtnWispher"]="Wispher %s",
+		["BtnWispher"]="Whisper %s",
 		["BtnInvite"]="Invite %s",
 		["BtnWho"]="Who %s",
 		["BtnIgnore"]="Ignore %s",
